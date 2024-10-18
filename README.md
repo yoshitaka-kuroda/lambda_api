@@ -11,3 +11,9 @@
            'statusCode': 200,
            'body': 'Hello, World!'
        }
+## 無料利用枠について
+Lambda:
+月間 100万件のリクエストまで無料
+合計 400,000 GB-秒の実行時間が無料
+API Gateway:
+REST API の場合、月間 100万件の呼び出しまで無料
