@@ -24,7 +24,7 @@
 以下の`curl`コマンドを使用して、APIが正常に動作することを確認します。
 
 ```bash
-curl -X GET https://<api-id>.execute-api.<region>.amazonaws.com/dev
+curl -X GET https://l05ammu9n8.execute-api.us-east-1.amazonaws.com/dev
 
 
 ## 無料利用枠について
